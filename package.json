@@ -1,0 +1,23 @@
+{
+  "name": "testpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SourabTN/testpack.git"
+  },
+  "keywords": [],
+  "author": "Nazmul H. Sourab <mdnhs.cse@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SourabTN/testpack/issues"
+  },
+  "homepage": "https://github.com/SourabTN/testpack#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
